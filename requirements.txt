@@ -1,0 +1,7 @@
+transformers
+torch
+sencsentencepiece
+boxprint
+
+# memory benchmarking
+pynvml
