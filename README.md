@@ -28,15 +28,15 @@ pip install lm-eval==0.4.2
 If you find our paper useful or relevant to your project and research, please kindly cite our paper:
 ```bibtex
 @inproceedings{zhan-etal-2024-rethinking-token,
-    title = "Rethinking Token Reduction for State Space Models",
-    author = "Zhan, Zheng  and Wu, Yushu  and Kong, Zhenglun  and Yang, Changdi  and Gong, Yifan  and Shen, Xuan  and Lin, Xue  and Zhao, Pu  and Wang, Yanzhi",
-    editor = "Al-Onaizan, Yaser  and Bansal, Mohit  and Chen, Yun-Nung",
-    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
-    month = nov,
-    year = "2024",
-    address = "Miami, Florida, USA",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2024.emnlp-main.100",
-    pages = "1686--1697"
+    title = {Rethinking Token Reduction for State Space Models},
+    author = {Zhan, Zheng  and Wu, Yushu  and Kong, Zhenglun  and Yang, Changdi  and Gong, Yifan  and Shen, Xuan  and Lin, Xue  and Zhao, Pu  and Wang, Yanzhi},
+    editor = {Al-Onaizan, Yaser  and Bansal, Mohit  and Chen, Yun-Nung},
+    booktitle = {Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing},
+    month = {nov},
+    year = {2024},
+    address = {Miami, Florida, USA},
+    publisher = {Association for Computational Linguistics},
+    url = {https://aclanthology.org/2024.emnlp-main.100},
+    pages = {1686--1697}
 }
 ```
