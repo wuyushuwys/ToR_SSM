@@ -1,5 +1,7 @@
 # Rethinking Token Reduction for State Space Models
 
+[[Paper]](https://aclanthology.org/2024.emnlp-main.100.pdf)
+
 Official Implementation of **EMNLP2024** Rethinking Token Reduction for State Space Models
 
 > **Rethinking Token Reduction for State Space Models**   
